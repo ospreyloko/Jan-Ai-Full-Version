@@ -245,4 +245,4 @@ This repository serves as the official landing page for Jan AI. The software is 
 **Get the most recent version of Jan AI today!**
 
 ---
-**Last updated:** 2026-09-16 05:41:40 UTC
+**Last updated:** 2026-09-16 10:59:31 UTC
